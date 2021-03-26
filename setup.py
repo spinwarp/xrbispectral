@@ -11,7 +11,7 @@ setuptools.setup(
     description="bispectral analysis using xarray, dask and numba",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/smartass101/xrbispectral",
+    url="https://github.com/spinwarp/xrbispectral",
     packages=setuptools.find_packages(),
     install_requires=['xarray', 'dask', 'numba'],
 )
